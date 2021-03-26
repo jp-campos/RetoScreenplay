@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Hacer una reserva en Viva Air" skipped="0" tests="1" time="54.97" timestamp="2021-03-26 05:27:45"><testcase name="Hacer la  reserva más barata para mañana entre Bogota - Medellin"><failure message="&#10;Expected: is &lt;157925&gt;&#10;     but: was &lt;228575&gt;" type="java.lang.AssertionError">
+Expected: is &lt;157925&gt;
+     but: was &lt;228575&gt;</failure><system-err>
+Expected: is &lt;157925&gt;
+     but: was &lt;228575&gt;&#13;
+com.accenture.screenplay.stepdefinitions.ReservarVueloStepDefinitions.sameReservationPrice(ReservarVueloStepDefinitions.java:55)&#13;
+✽.El valor inicial del vuelo deberia ser el mismo al final de la transaccion(src/test/resources/features/reservar_vuelo.feature:9)&#13;
+</system-err></testcase></testsuite>
